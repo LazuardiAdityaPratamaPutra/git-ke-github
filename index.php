@@ -6,6 +6,6 @@
   <title>Document</title>
 </head>
 <body>
-  <h1>halo dek</h1>
+  <h1>hai lazuu</h1>
 </body>
 </html>
